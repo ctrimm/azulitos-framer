@@ -1,0 +1,1247 @@
+[
+ {
+  "id": "AZL-01",
+  "name": "Estrela e Quadrifólio",
+  "group": "Padrão",
+  "motifs": [
+   "Estrela",
+   "Quadrifólio",
+   "Flor",
+   "Renda"
+  ],
+  "family": "Estrela",
+  "shapes": 66,
+  "holes": 22,
+  "colours": [
+   "azul"
+  ]
+ },
+ {
+  "id": "AZL-02",
+  "name": "Estrela e Flor",
+  "group": "Padrão",
+  "motifs": [
+   "Estrela",
+   "Flor",
+   "Pinha"
+  ],
+  "family": "Estrela",
+  "shapes": 70,
+  "holes": 22,
+  "colours": [
+   "azul"
+  ]
+ },
+ {
+  "id": "AZL-03",
+  "name": "Estrela e Losango",
+  "group": "Padrão",
+  "motifs": [
+   "Estrela",
+   "Losango",
+   "Flor",
+   "Renda"
+  ],
+  "family": "Estrela",
+  "shapes": 58,
+  "holes": 29,
+  "colours": [
+   "azul"
+  ]
+ },
+ {
+  "id": "AZL-04",
+  "name": "Estrela e Coração",
+  "group": "Padrão",
+  "motifs": [
+   "Estrela",
+   "Coração",
+   "Flor",
+   "Trevo",
+   "Onda"
+  ],
+  "family": "Estrela",
+  "shapes": 57,
+  "holes": 12,
+  "colours": [
+   "azul"
+  ]
+ },
+ {
+  "id": "AZL-05",
+  "name": "Estrela e Folha",
+  "group": "Padrão",
+  "motifs": [
+   "Estrela",
+   "Folha",
+   "Flor",
+   "Losango"
+  ],
+  "family": "Estrela",
+  "shapes": 65,
+  "holes": 20,
+  "colours": [
+   "azul"
+  ]
+ },
+ {
+  "id": "AZL-06",
+  "name": "Estrela e Cruz",
+  "group": "Padrão",
+  "motifs": [
+   "Estrela",
+   "Cruz",
+   "Flor",
+   "Renda"
+  ],
+  "family": "Estrela",
+  "shapes": 49,
+  "holes": 12,
+  "colours": [
+   "azul"
+  ]
+ },
+ {
+  "id": "AZL-07",
+  "name": "Roseta e Flor",
+  "group": "Padrão",
+  "motifs": [
+   "Roseta",
+   "Flor",
+   "Losango",
+   "Espiral"
+  ],
+  "family": "Roseta",
+  "shapes": 66,
+  "holes": 26,
+  "colours": [
+   "azul"
+  ]
+ },
+ {
+  "id": "AZL-08",
+  "name": "Roseta e Losango",
+  "group": "Padrão",
+  "motifs": [
+   "Roseta",
+   "Losango",
+   "Renda"
+  ],
+  "family": "Roseta",
+  "shapes": 70,
+  "holes": 41,
+  "colours": [
+   "azul"
+  ]
+ },
+ {
+  "id": "AZL-09",
+  "name": "Roseta e Coração",
+  "group": "Padrão",
+  "motifs": [
+   "Roseta",
+   "Coração",
+   "Losango",
+   "Cata-Vento",
+   "Onda"
+  ],
+  "family": "Roseta",
+  "shapes": 85,
+  "holes": 16,
+  "colours": [
+   "azul"
+  ]
+ },
+ {
+  "id": "AZL-10",
+  "name": "Roseta e Folha",
+  "group": "Padrão",
+  "motifs": [
+   "Roseta",
+   "Folha",
+   "Losango"
+  ],
+  "family": "Roseta",
+  "shapes": 77,
+  "holes": 24,
+  "colours": [
+   "azul"
+  ]
+ },
+ {
+  "id": "AZL-11",
+  "name": "Roseta e Estrela",
+  "group": "Padrão",
+  "motifs": [
+   "Roseta",
+   "Estrela",
+   "Losango",
+   "Renda"
+  ],
+  "family": "Roseta",
+  "shapes": 58,
+  "holes": 25,
+  "colours": [
+   "azul"
+  ]
+ },
+ {
+  "id": "AZL-12",
+  "name": "Roseta e Cruz",
+  "group": "Padrão",
+  "motifs": [
+   "Roseta",
+   "Cruz",
+   "Losango",
+   "Renda"
+  ],
+  "family": "Roseta",
+  "shapes": 77,
+  "holes": 32,
+  "colours": [
+   "azul"
+  ]
+ },
+ {
+  "id": "AZL-13",
+  "name": "Quadrifólio e Losango",
+  "group": "Padrão",
+  "motifs": [
+   "Quadrifólio",
+   "Losango",
+   "Estrela",
+   "Renda"
+  ],
+  "family": "Quadrifólio",
+  "shapes": 74,
+  "holes": 21,
+  "colours": [
+   "azul"
+  ]
+ },
+ {
+  "id": "AZL-14",
+  "name": "Quadrifólio e Coração",
+  "group": "Padrão",
+  "motifs": [
+   "Quadrifólio",
+   "Coração",
+   "Estrela",
+   "Folha",
+   "Onda"
+  ],
+  "family": "Quadrifólio",
+  "shapes": 61,
+  "holes": 8,
+  "colours": [
+   "azul"
+  ]
+ },
+ {
+  "id": "AZL-15",
+  "name": "Quadrifólio e Folha",
+  "group": "Padrão",
+  "motifs": [
+   "Quadrifólio",
+   "Folha",
+   "Estrela",
+   "Losango"
+  ],
+  "family": "Quadrifólio",
+  "shapes": 73,
+  "holes": 8,
+  "colours": [
+   "azul"
+  ]
+ },
+ {
+  "id": "AZL-16",
+  "name": "Quadrifólio e Estrela",
+  "group": "Padrão",
+  "motifs": [
+   "Quadrifólio",
+   "Estrela",
+   "Renda"
+  ],
+  "family": "Quadrifólio",
+  "shapes": 54,
+  "holes": 9,
+  "colours": [
+   "azul"
+  ]
+ },
+ {
+  "id": "AZL-17",
+  "name": "Quadrifólio e Cruz",
+  "group": "Padrão",
+  "motifs": [
+   "Quadrifólio",
+   "Cruz",
+   "Estrela",
+   "Renda"
+  ],
+  "family": "Quadrifólio",
+  "shapes": 73,
+  "holes": 12,
+  "colours": [
+   "azul"
+  ]
+ },
+ {
+  "id": "AZL-18",
+  "name": "Quadrifólio e Roseta",
+  "group": "Padrão",
+  "motifs": [
+   "Quadrifólio",
+   "Roseta",
+   "Estrela",
+   "Pinha"
+  ],
+  "family": "Quadrifólio",
+  "shapes": 94,
+  "holes": 1,
+  "colours": [
+   "azul"
+  ]
+ },
+ {
+  "id": "AZL-19",
+  "name": "Sol e Coração",
+  "group": "Padrão",
+  "motifs": [
+   "Sol",
+   "Coração",
+   "Meia-Lua",
+   "Onda"
+  ],
+  "family": "Sol",
+  "shapes": 61,
+  "holes": 0,
+  "colours": [
+   "azul"
+  ]
+ },
+ {
+  "id": "AZL-20",
+  "name": "Sol e Folha",
+  "group": "Padrão",
+  "motifs": [
+   "Sol",
+   "Folha",
+   "Meia-Lua",
+   "Losango"
+  ],
+  "family": "Sol",
+  "shapes": 81,
+  "holes": 20,
+  "colours": [
+   "azul"
+  ]
+ },
+ {
+  "id": "AZL-21",
+  "name": "Sol e Estrela",
+  "group": "Padrão",
+  "motifs": [
+   "Sol",
+   "Estrela",
+   "Meia-Lua",
+   "Renda"
+  ],
+  "family": "Sol",
+  "shapes": 54,
+  "holes": 9,
+  "colours": [
+   "azul"
+  ]
+ },
+ {
+  "id": "AZL-22",
+  "name": "Sol e Cruz",
+  "group": "Padrão",
+  "motifs": [
+   "Sol",
+   "Cruz",
+   "Meia-Lua",
+   "Renda"
+  ],
+  "family": "Sol",
+  "shapes": 77,
+  "holes": 12,
+  "colours": [
+   "azul"
+  ]
+ },
+ {
+  "id": "AZL-23",
+  "name": "Sol e Roseta",
+  "group": "Padrão",
+  "motifs": [
+   "Sol",
+   "Roseta",
+   "Meia-Lua",
+   "Espiral"
+  ],
+  "family": "Sol",
+  "shapes": 78,
+  "holes": 1,
+  "colours": [
+   "azul"
+  ]
+ },
+ {
+  "id": "AZL-24",
+  "name": "Sol e Quadrifólio",
+  "group": "Padrão",
+  "motifs": [
+   "Sol",
+   "Quadrifólio",
+   "Meia-Lua",
+   "Renda"
+  ],
+  "family": "Sol",
+  "shapes": 66,
+  "holes": 26,
+  "colours": [
+   "azul"
+  ]
+ },
+ {
+  "id": "AZL-25",
+  "name": "Flor e Folha",
+  "group": "Padrão",
+  "motifs": [
+   "Flor",
+   "Folha",
+   "Roseta",
+   "Losango"
+  ],
+  "family": "Flor",
+  "shapes": 85,
+  "holes": 12,
+  "colours": [
+   "azul"
+  ]
+ },
+ {
+  "id": "AZL-26",
+  "name": "Flor e Estrela",
+  "group": "Padrão",
+  "motifs": [
+   "Flor",
+   "Estrela",
+   "Roseta",
+   "Renda"
+  ],
+  "family": "Flor",
+  "shapes": 66,
+  "holes": 13,
+  "colours": [
+   "azul"
+  ]
+ },
+ {
+  "id": "AZL-27",
+  "name": "Flor e Cruz",
+  "group": "Padrão",
+  "motifs": [
+   "Flor",
+   "Cruz",
+   "Roseta",
+   "Renda"
+  ],
+  "family": "Flor",
+  "shapes": 85,
+  "holes": 16,
+  "colours": [
+   "azul"
+  ]
+ },
+ {
+  "id": "AZL-28",
+  "name": "Flor e Roseta",
+  "group": "Padrão",
+  "motifs": [
+   "Flor",
+   "Roseta",
+   "Trevo"
+  ],
+  "family": "Flor",
+  "shapes": 94,
+  "holes": 5,
+  "colours": [
+   "azul"
+  ]
+ },
+ {
+  "id": "AZL-29",
+  "name": "Flor e Quadrifólio",
+  "group": "Padrão",
+  "motifs": [
+   "Flor",
+   "Quadrifólio",
+   "Roseta",
+   "Renda"
+  ],
+  "family": "Flor",
+  "shapes": 78,
+  "holes": 22,
+  "colours": [
+   "azul"
+  ]
+ },
+ {
+  "id": "AZL-30",
+  "name": "Flor e Losango",
+  "group": "Padrão",
+  "motifs": [
+   "Flor",
+   "Losango",
+   "Roseta",
+   "Folha",
+   "Onda"
+  ],
+  "family": "Flor",
+  "shapes": 74,
+  "holes": 13,
+  "colours": [
+   "azul"
+  ]
+ },
+ {
+  "id": "AZL-31",
+  "name": "Cruz e Estrela",
+  "group": "Padrão",
+  "motifs": [
+   "Cruz",
+   "Estrela",
+   "Quadrifólio",
+   "Renda"
+  ],
+  "family": "Cruz",
+  "shapes": 58,
+  "holes": 9,
+  "colours": [
+   "azul"
+  ]
+ },
+ {
+  "id": "AZL-32",
+  "name": "Cruz e Roseta",
+  "group": "Padrão",
+  "motifs": [
+   "Cruz",
+   "Roseta",
+   "Quadrifólio",
+   "Renda"
+  ],
+  "family": "Cruz",
+  "shapes": 94,
+  "holes": 13,
+  "colours": [
+   "azul"
+  ]
+ },
+ {
+  "id": "AZL-33",
+  "name": "Cruz e Quadrifólio",
+  "group": "Padrão",
+  "motifs": [
+   "Cruz",
+   "Quadrifólio",
+   "Cata-Vento"
+  ],
+  "family": "Cruz",
+  "shapes": 82,
+  "holes": 2,
+  "colours": [
+   "azul"
+  ]
+ },
+ {
+  "id": "AZL-34",
+  "name": "Cruz e Flor",
+  "group": "Padrão",
+  "motifs": [
+   "Cruz",
+   "Flor",
+   "Quadrifólio",
+   "Renda"
+  ],
+  "family": "Cruz",
+  "shapes": 70,
+  "holes": 34,
+  "colours": [
+   "azul"
+  ]
+ },
+ {
+  "id": "AZL-35",
+  "name": "Cruz e Losango",
+  "group": "Padrão",
+  "motifs": [
+   "Cruz",
+   "Losango",
+   "Quadrifólio",
+   "Coração",
+   "Onda"
+  ],
+  "family": "Cruz",
+  "shapes": 66,
+  "holes": 1,
+  "colours": [
+   "azul"
+  ]
+ },
+ {
+  "id": "AZL-36",
+  "name": "Cruz e Coração",
+  "group": "Padrão",
+  "motifs": [
+   "Cruz",
+   "Coração",
+   "Quadrifólio",
+   "Losango"
+  ],
+  "family": "Cruz",
+  "shapes": 69,
+  "holes": 0,
+  "colours": [
+   "azul"
+  ]
+ },
+ {
+  "id": "AZL-37",
+  "name": "Leque e Cruz",
+  "group": "Padrão",
+  "motifs": [
+   "Leque",
+   "Cruz",
+   "Flor",
+   "Renda"
+  ],
+  "family": "Leque",
+  "shapes": 93,
+  "holes": 32,
+  "colours": [
+   "azul"
+  ]
+ },
+ {
+  "id": "AZL-38",
+  "name": "Leque e Roseta",
+  "group": "Padrão",
+  "motifs": [
+   "Leque",
+   "Roseta",
+   "Flor",
+   "Folha"
+  ],
+  "family": "Leque",
+  "shapes": 94,
+  "holes": 33,
+  "colours": [
+   "azul"
+  ]
+ },
+ {
+  "id": "AZL-39",
+  "name": "Leque e Quadrifólio",
+  "group": "Padrão",
+  "motifs": [
+   "Leque",
+   "Quadrifólio",
+   "Flor",
+   "Renda"
+  ],
+  "family": "Leque",
+  "shapes": 82,
+  "holes": 42,
+  "colours": [
+   "azul"
+  ]
+ },
+ {
+  "id": "AZL-40",
+  "name": "Leque e Flor",
+  "group": "Padrão",
+  "motifs": [
+   "Leque",
+   "Flor",
+   "Concha",
+   "Onda"
+  ],
+  "family": "Leque",
+  "shapes": 102,
+  "holes": 34,
+  "colours": [
+   "azul"
+  ]
+ },
+ {
+  "id": "AZL-41",
+  "name": "Leque e Losango",
+  "group": "Padrão",
+  "motifs": [
+   "Leque",
+   "Losango",
+   "Flor"
+  ],
+  "family": "Leque",
+  "shapes": 90,
+  "holes": 33,
+  "colours": [
+   "azul"
+  ]
+ },
+ {
+  "id": "AZL-42",
+  "name": "Leque e Coração",
+  "group": "Padrão",
+  "motifs": [
+   "Leque",
+   "Coração",
+   "Flor",
+   "Renda"
+  ],
+  "family": "Leque",
+  "shapes": 69,
+  "holes": 24,
+  "colours": [
+   "azul"
+  ]
+ },
+ {
+  "id": "AZL-43",
+  "name": "Losango e Roseta",
+  "group": "Padrão",
+  "motifs": [
+   "Losango",
+   "Roseta",
+   "Estrela",
+   "Coração"
+  ],
+  "family": "Losango",
+  "shapes": 54,
+  "holes": 1,
+  "colours": [
+   "azul"
+  ]
+ },
+ {
+  "id": "AZL-44",
+  "name": "Losango e Quadrifólio",
+  "group": "Padrão",
+  "motifs": [
+   "Losango",
+   "Quadrifólio",
+   "Estrela",
+   "Renda"
+  ],
+  "family": "Losango",
+  "shapes": 42,
+  "holes": 18,
+  "colours": [
+   "azul"
+  ]
+ },
+ {
+  "id": "AZL-45",
+  "name": "Losango e Flor",
+  "group": "Padrão",
+  "motifs": [
+   "Losango",
+   "Flor",
+   "Estrela",
+   "Meia-Lua",
+   "Onda"
+  ],
+  "family": "Losango",
+  "shapes": 38,
+  "holes": 10,
+  "colours": [
+   "azul"
+  ]
+ },
+ {
+  "id": "AZL-46",
+  "name": "Losango e Coração",
+  "group": "Padrão",
+  "motifs": [
+   "Losango",
+   "Coração",
+   "Estrela"
+  ],
+  "family": "Losango",
+  "shapes": 41,
+  "holes": 0,
+  "colours": [
+   "azul"
+  ]
+ },
+ {
+  "id": "AZL-47",
+  "name": "Losango e Folha",
+  "group": "Padrão",
+  "motifs": [
+   "Losango",
+   "Folha",
+   "Estrela",
+   "Renda"
+  ],
+  "family": "Losango",
+  "shapes": 37,
+  "holes": 8,
+  "colours": [
+   "azul"
+  ]
+ },
+ {
+  "id": "AZL-48",
+  "name": "Losango e Estrela",
+  "group": "Padrão",
+  "motifs": [
+   "Losango",
+   "Estrela",
+   "Renda"
+  ],
+  "family": "Losango",
+  "shapes": 46,
+  "holes": 21,
+  "colours": [
+   "azul"
+  ]
+ },
+ {
+  "id": "AZL-49",
+  "name": "Estrela em Anel",
+  "group": "Medalhão",
+  "motifs": [
+   "Estrela",
+   "Renda",
+   "Leque"
+  ],
+  "family": null,
+  "shapes": 49,
+  "holes": 12,
+  "colours": [
+   "azul"
+  ]
+ },
+ {
+  "id": "AZL-50",
+  "name": "Roseta em Anel",
+  "group": "Medalhão",
+  "motifs": [
+   "Roseta",
+   "Renda",
+   "Leque"
+  ],
+  "family": null,
+  "shapes": 65,
+  "holes": 4,
+  "colours": [
+   "azul"
+  ]
+ },
+ {
+  "id": "AZL-51",
+  "name": "Quadrifólio em Anel",
+  "group": "Medalhão",
+  "motifs": [
+   "Quadrifólio",
+   "Renda",
+   "Leque"
+  ],
+  "family": null,
+  "shapes": 49,
+  "holes": 5,
+  "colours": [
+   "azul"
+  ]
+ },
+ {
+  "id": "AZL-52",
+  "name": "Sol em Anel",
+  "group": "Medalhão",
+  "motifs": [
+   "Sol",
+   "Renda",
+   "Leque"
+  ],
+  "family": null,
+  "shapes": 65,
+  "holes": 4,
+  "colours": [
+   "azul"
+  ]
+ },
+ {
+  "id": "AZL-53",
+  "name": "Flor em Anel",
+  "group": "Medalhão",
+  "motifs": [
+   "Flor",
+   "Renda",
+   "Leque"
+  ],
+  "family": null,
+  "shapes": 49,
+  "holes": 13,
+  "colours": [
+   "azul"
+  ]
+ },
+ {
+  "id": "AZL-54",
+  "name": "Cruz em Anel",
+  "group": "Medalhão",
+  "motifs": [
+   "Cruz",
+   "Renda",
+   "Leque"
+  ],
+  "family": null,
+  "shapes": 56,
+  "holes": 3,
+  "colours": [
+   "azul"
+  ]
+ },
+ {
+  "id": "AZL-55",
+  "name": "Leque em Anel",
+  "group": "Medalhão",
+  "motifs": [
+   "Leque",
+   "Renda"
+  ],
+  "family": null,
+  "shapes": 68,
+  "holes": 4,
+  "colours": [
+   "azul"
+  ]
+ },
+ {
+  "id": "AZL-56",
+  "name": "Espiral em Anel",
+  "group": "Medalhão",
+  "motifs": [
+   "Espiral",
+   "Renda",
+   "Leque"
+  ],
+  "family": null,
+  "shapes": 48,
+  "holes": 4,
+  "colours": [
+   "azul"
+  ]
+ },
+ {
+  "id": "AZL-57",
+  "name": "Estrela em Concha",
+  "group": "Medalhão",
+  "motifs": [
+   "Estrela",
+   "Renda",
+   "Concha",
+   "Trevo",
+   "Folha"
+  ],
+  "family": null,
+  "shapes": 44,
+  "holes": 11,
+  "colours": [
+   "azul"
+  ]
+ },
+ {
+  "id": "AZL-58",
+  "name": "Roseta em Concha",
+  "group": "Medalhão",
+  "motifs": [
+   "Roseta",
+   "Renda",
+   "Concha",
+   "Trevo",
+   "Folha"
+  ],
+  "family": null,
+  "shapes": 60,
+  "holes": 3,
+  "colours": [
+   "azul"
+  ]
+ },
+ {
+  "id": "AZL-59",
+  "name": "Quadrifólio em Concha",
+  "group": "Medalhão",
+  "motifs": [
+   "Quadrifólio",
+   "Renda",
+   "Concha",
+   "Trevo",
+   "Folha"
+  ],
+  "family": null,
+  "shapes": 44,
+  "holes": 4,
+  "colours": [
+   "azul"
+  ]
+ },
+ {
+  "id": "AZL-60",
+  "name": "Sol em Concha",
+  "group": "Medalhão",
+  "motifs": [
+   "Sol",
+   "Renda",
+   "Concha",
+   "Trevo",
+   "Folha"
+  ],
+  "family": null,
+  "shapes": 60,
+  "holes": 3,
+  "colours": [
+   "azul"
+  ]
+ },
+ {
+  "id": "AZL-61",
+  "name": "Flor em Concha",
+  "group": "Medalhão",
+  "motifs": [
+   "Flor",
+   "Renda",
+   "Concha",
+   "Trevo",
+   "Folha"
+  ],
+  "family": null,
+  "shapes": 44,
+  "holes": 12,
+  "colours": [
+   "azul"
+  ]
+ },
+ {
+  "id": "AZL-62",
+  "name": "Cruz em Concha",
+  "group": "Medalhão",
+  "motifs": [
+   "Cruz",
+   "Renda",
+   "Concha",
+   "Trevo",
+   "Folha"
+  ],
+  "family": null,
+  "shapes": 51,
+  "holes": 2,
+  "colours": [
+   "azul"
+  ]
+ },
+ {
+  "id": "AZL-63",
+  "name": "Leque em Concha",
+  "group": "Medalhão",
+  "motifs": [
+   "Leque",
+   "Renda",
+   "Concha",
+   "Trevo",
+   "Folha"
+  ],
+  "family": null,
+  "shapes": 63,
+  "holes": 3,
+  "colours": [
+   "azul"
+  ]
+ },
+ {
+  "id": "AZL-64",
+  "name": "Espiral em Concha",
+  "group": "Medalhão",
+  "motifs": [
+   "Espiral",
+   "Renda",
+   "Concha",
+   "Trevo",
+   "Folha"
+  ],
+  "family": null,
+  "shapes": 43,
+  "holes": 3,
+  "colours": [
+   "azul"
+  ]
+ },
+ {
+  "id": "AZL-65",
+  "name": "Roseta Lisboeta",
+  "group": "Polícromo",
+  "motifs": [
+   "Roseta",
+   "Estrela",
+   "Flor",
+   "Folha"
+  ],
+  "family": null,
+  "shapes": 74,
+  "holes": 25,
+  "colours": [
+   "#1E4FA3",
+   "#3E7C4F",
+   "#7A4E7E",
+   "#E3A008"
+  ]
+ },
+ {
+  "id": "AZL-66",
+  "name": "Estrela Lisboeta",
+  "group": "Polícromo",
+  "motifs": [
+   "Estrela",
+   "Flor",
+   "Quadrifólio",
+   "Renda"
+  ],
+  "family": null,
+  "shapes": 74,
+  "holes": 22,
+  "colours": [
+   "#1E4FA3",
+   "#3E7C4F",
+   "#7A4E7E",
+   "#E3A008"
+  ]
+ },
+ {
+  "id": "AZL-67",
+  "name": "Flor Lisboeta",
+  "group": "Polícromo",
+  "motifs": [
+   "Flor",
+   "Quadrifólio",
+   "Roseta",
+   "Coração",
+   "Onda"
+  ],
+  "family": null,
+  "shapes": 62,
+  "holes": 6,
+  "colours": [
+   "#1E4FA3",
+   "#3E7C4F",
+   "#7A4E7E",
+   "#E3A008"
+  ]
+ },
+ {
+  "id": "AZL-68",
+  "name": "Sol Lisboeta",
+  "group": "Polícromo",
+  "motifs": [
+   "Sol",
+   "Cruz",
+   "Losango",
+   "Pinha"
+  ],
+  "family": null,
+  "shapes": 85,
+  "holes": 0,
+  "colours": [
+   "#1E4FA3",
+   "#3E7C4F",
+   "#7A4E7E",
+   "#E3A008"
+  ]
+ },
+ {
+  "id": "AZL-69",
+  "name": "Quadrifólio Lisboeta",
+  "group": "Polícromo",
+  "motifs": [
+   "Quadrifólio",
+   "Roseta",
+   "Estrela",
+   "Renda"
+  ],
+  "family": null,
+  "shapes": 62,
+  "holes": 25,
+  "colours": [
+   "#1E4FA3",
+   "#3E7C4F",
+   "#7A4E7E",
+   "#E3A008"
+  ]
+ },
+ {
+  "id": "AZL-70",
+  "name": "Leque Lisboeta",
+  "group": "Polícromo",
+  "motifs": [
+   "Leque",
+   "Folha",
+   "Meia-Lua",
+   "Concha"
+  ],
+  "family": null,
+  "shapes": 97,
+  "holes": 8,
+  "colours": [
+   "#1E4FA3",
+   "#3E7C4F",
+   "#7A4E7E",
+   "#E3A008"
+  ]
+ },
+ {
+  "id": "AZL-71",
+  "name": "Cruz Lisboeta",
+  "group": "Polícromo",
+  "motifs": [
+   "Cruz",
+   "Coração",
+   "Flor",
+   "Losango"
+  ],
+  "family": null,
+  "shapes": 97,
+  "holes": 16,
+  "colours": [
+   "#1E4FA3",
+   "#3E7C4F",
+   "#7A4E7E",
+   "#E3A008"
+  ]
+ },
+ {
+  "id": "AZL-72",
+  "name": "Losango Lisboeta",
+  "group": "Polícromo",
+  "motifs": [
+   "Losango",
+   "Flor",
+   "Quadrifólio",
+   "Cata-Vento"
+  ],
+  "family": null,
+  "shapes": 62,
+  "holes": 10,
+  "colours": [
+   "#1E4FA3",
+   "#3E7C4F",
+   "#7A4E7E",
+   "#E3A008"
+  ]
+ }
+]
