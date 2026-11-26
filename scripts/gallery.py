@@ -92,6 +92,17 @@ def main():
     save(grid_sheet(by_group("Medalhão"), 6, 200, 34), "03-medalhao")
     save(grid_sheet(by_group("Polícromo"), 4, 300, 40), "04-policromo")
 
+    # tight per-group sheets for the Framer Showcase sections (no outer canvas)
+    for g, fn, cols, tpx, gap in (("Padrão", "padrao", 8, 240, 28), ("Medalhão", "medalhao", 8, 240, 28),
+                                  ("Polícromo", "policromo", 4, 420, 36)):
+        ids = by_group(g)
+        rows = (len(ids) + cols - 1) // cols
+        sheet = Image.new("RGBA", (cols * tpx + (cols - 1) * gap, rows * tpx + (rows - 1) * gap), (255, 255, 255, 255))
+        for i, t in enumerate(ids):
+            sheet.alpha_composite(tile(t, tpx), ((i % cols) * (tpx + gap), (i // cols) * (tpx + gap)))
+        sheet.convert("RGB").save(os.path.join(ROOT, "qa", "sheets", f"showcase-{fn}.png"), optimize=True)
+        print("wrote showcase", fn, sheet.size)
+
     px = 120
     img = canvas()
     gap = (W - 3 * 4 * px) // 4
