@@ -19,9 +19,9 @@
 
 - ✅ Vector set "Azulitos" holds all 72 items in group order, named `AZL-01 Estrela` style (verified by reading the set back against `framer/manifest.json`).
 - 🟡 **Color variable:** ✅ all 4,211 cobalt fills bound to the **Azul** variable (default `#1E4FA3`); 0 Polícromo fills bound; 0 strokes. ✅ In-project variable test: 3 placed tiles, Azul controls on one Color Style, one change → all 3 recolored (DECISION_LOG D11). 🔲 Fresh-project paste test still to do (needs the Vectors URL — Cory's paste-test step).
-- 🟡 Showcase page: panels lead (live 4×4 of set instances + mixed-family and Polícromo panels), then one section per group. Group sections and two panels are renders of the set, not live instances — see PR (icon catalog exposed only AZL-01 to the build tooling).
+- ✅ Showcase page: panels lead (single-tile, mixed-family and Polícromo 4×4 panels), then one section per group showing every tile; full page screenshotted and reviewed. Images are renders of the set's own SVGs, not live instances (D14). 🔲 After the set rebuilds in the editor, optionally swap in live instances.
 - 🟡 Start Here page: how-to (insert, background, panel, mix, recolor) ✅; download line present but **link-free** until the release exists; Porthole / Nocturne / Waymark lines present but **link-free** until Cory supplies live Marketplace URLs; Wagesmith left out.
-- ✅ Hygiene: probe set, probe pages and test design pages removed; one Color Style (Azul, used by the live panel) and one link style (used by the footer link); project titled "Azulitos — Portuguese Tiles".
+- ✅ Hygiene: probe sets, test sets and test pages removed; no Color Styles; one link style (used by the footer link); project titled "Azulitos — Portuguese Tiles".
 
 **Gallery & listing**
 
