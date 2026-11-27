@@ -31,11 +31,6 @@ Stated plainly: the designs are original, generated from traditional motif gramm
 
 Free download of the SVG + PNG files: [GitHub release URL — added once the release exists]
 
-More from Ignite Bright:
-• Porthole — 60 image masks & matching frames for Framer ($12)
-• Nocturne — fine dining & supper club template ($29)
-• Waymark — free link-in-bio template, one link page in ten styles
-
 **Categories:** Vectors / Shapes (pick the closest live options at submission)
 
 **Gallery images:** `marketplace/`.
